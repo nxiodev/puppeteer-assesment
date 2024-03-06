@@ -17,7 +17,7 @@ Before running the project, you need to have Node.js and npm (Node Package Manag
    Start by cloning the repository to your local machine:
 
     ```
-    git clone https://yourrepositorylink.com/project.git
+    git clone https://github.com/nxiodev/puppeteer-assesment.git
     cd project
     ```
 
