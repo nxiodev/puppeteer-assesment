@@ -33,7 +33,7 @@ Before running the project, you need to have Node.js and npm (Node Package Manag
 
 3. **Environment Setup**
 
-   Before starting the server, you may need to set up environment variables or configurations specific to Puppeteer or other aspects of your project. If there are any, include those steps here. Otherwise, the project does not require additional environment setup.
+   Before starting the server, you may need to set up environment variables for todoist email and password. This is a must! C:
     ```
    TODOIST_EMAIL=email@email.com
    TODOIST_PASSWORD=yourpassword
